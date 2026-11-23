@@ -1,0 +1,6 @@
+# Không đưa vào repo
+.config/hypr/*.log
+*.log
+*.bak
+.config/nvim/lazy-lock.json.bak
+*.tar.gz
