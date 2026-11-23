@@ -1,6 +1,0 @@
-@import "~/.config/rofi/shared.rasi"
-configuration { show-icons: false; }
-window  { width: 300px; }
-listview { lines: 5; }
-inputbar { children: [ prompt ]; }
-prompt  { text-color: @red; }
