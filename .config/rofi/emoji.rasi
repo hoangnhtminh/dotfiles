@@ -1,0 +1,4 @@
+@import "~/.config/rofi/shared.rasi"
+configuration { show-icons: false; }
+window  { width: 480px; }
+listview { lines: 8; }

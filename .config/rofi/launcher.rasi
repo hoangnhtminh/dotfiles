@@ -1,0 +1,2 @@
+@import "~/.config/rofi/shared.rasi"
+configuration { show-icons: true; drun-display-format: "{name}"; }

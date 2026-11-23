@@ -1,0 +1,5 @@
+@import "~/.config/rofi/shared.rasi"
+configuration { show-icons: false; }
+window  { width: 640px; }
+listview { lines: 10; }
+element-text { font: "JetBrainsMono Nerd Font 11"; }
