@@ -1,0 +1,5 @@
+@import "~/.config/rofi/shared.rasi"
+window   { width: 420px; }
+mainbox  { children: [ inputbar ]; }
+listview { lines: 0; }
+prompt   { text-color: @yellow; }
